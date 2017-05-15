@@ -1,0 +1,263 @@
+HCBCR V1.2.6dv.R00G2B00LT00PP00FID00
+
+
+*** 1 Load image file : ./Img\a_h_1.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 2 Load image file : ./Img\a_h_2.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 3 Load image file : ./Img\a_h_3.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G38次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 4 Load image file : ./Img\a_h_4.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 5 Load image file : ./Img\a_v_1.jpg
+Name       : OOIX EEBIJC
+Time       : 2017年04月29日7:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 109021979****
+SELL       : 北京南售
+
+
+*** 6 Load image file : ./Img\a_v_2.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 7 Load image file : ./Img\a_v_3.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****
+TYPE       : 网折
+
+
+*** 8 Load image file : ./Img\a_x_1.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:11
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 9 Load image file : ./Img\a_x_2.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 10 Load image file : ./Img\ay_h_1.jpg
+Name       : JI:*SI/G
+Time       : 2017年04月2日9:07开
+Number     : G38次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 11 Load image file : ./Img\ay_x_1.jpg
+Blur image detected 1
+
+
+*** 12 Load image file : ./Img\ay_x_2.jpg
+Blur image detected 2
+Time       : 1月0日00:11开
+
+
+*** 13 Load image file : ./Img\ay_x_3.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G381次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 14 Load image file : ./Img\houwei.jpg
+Name       : HOU WEI
+Time       : 2016年12月16日12:13开
+Number     : G181次
+Start      : 德州东站
+End        : 青岛站
+CHECK      : 检票:2
+SIT        : 03车06C号
+PRICE      : ￥529.0元
+GRADE      : 商务座
+ID         : C8C7R85**
+SELL       : 沪售
+
+
+*** 15 Load image file : ./Img\ios_h.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G38次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:I5
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 16 Load image file : ./Img\ios_v.jpg
+Name       : 庄德元
+Time       : 2017年04月29日07:53开
+Number     : G38次
+Start      : 北京南站
+End        : 哈尔滨西站
+CHECK      : 检票:15
+SIT        : 05车05C号
+PRICE      : ￥541.5元
+GRADE      : 二等座
+ID         : 2109021979****001X
+SELL       : 北京南售
+TYPE       : 网折
+
+
+*** 17 Load image file : ./Img\zhoujian.jpg
+Name       : 周健
+Time       : 2016年12月17日10:28开
+Number     : D2281次
+Start      : 上海虹桥站
+End        : 温岭站
+CHECK      : 检票:20A
+SIT        : 13车10F号
+PRICE      : ￥149.0元
+GRADE      : 二等座
+ID         : 3301051981****0782
+SELL       : 沪售
+TYPE       : 折
+
+2 blur images detected
+*** END
+
+ClockSet : Engine Time
+
+Start Engine                 0.000 :        1
+ImageDetect                  0.655 :       17
+DoImageBCR                  10.828 :       17
+SP_CROP                      1.607 :       17
+GrayConvert                  1.033 :       17
+RemoveNoise                  0.373 :       17
+SP_AnalyzeImage_BCR          7.674 :       17
+SP_PRE                       0.454 :       34
+SP_LYT                       0.188 :       17
+SP_OCR                       6.969 :       17
+ExtractLine                  0.015 :      725
+BlockRecog                   6.424 :      739
+CCA                          0.110 :      795
+Image Labeling               0.015 :      788
+RegEnglishChar               1.466 :    19461
+ExtractFeature               0.356 :    19461
+CH_CC_Com                    0.331 :    19461
+GetRange                     0.000 :    24718
+AutCorrectWord               0.016 :      441
+RegChineseChar               4.146 :     3263
+ExtractFeature_ch            0.531 :     3263
+CH_CC_Com5                   1.239 :     2514
+MatchDIC                     0.000 :     1800
+DeItalic                     0.109 :      510
+CH_CC_Com5                   2.205 :      749
+SP_FID                       0.063 :       17
